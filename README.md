@@ -8,6 +8,6 @@ B.A, Data Science (Graduating Dec 2024)
 ### Coursework
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
 * Data Structures (Java, Git)
-* The Foundations of Data Science
-* Principles & Techniques of Data Science
+* The Foundations of Data Science (NumPy)
+* Principles & Techniques of Data Science (Python, Scikit-Learn)
 * Discrete Mathematics & Probability Theory
