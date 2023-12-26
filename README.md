@@ -6,11 +6,14 @@
 B.A, Computer Science (Graduating Dec 2024)
 
 ### Coursework
+* Introductino to Database Systems
+* Introduction to Machine Learning 
 * Efficient Algorithms and Intractable Problems
 * Great Ideas in Computer Architecture (Machine Structures)
-* Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
 * Data Structures (Java, Git)
+* Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
 * The Foundations of Data Science (NumPy)
 * Principles & Techniques of Data Science (Python, Scikit-Learn)
 * Discrete Mathematics & Probability Theory
+* Linear Algebra and Differential Equations
   
