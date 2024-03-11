@@ -6,7 +6,7 @@
 B.A, Computer Science (Graduating Dec 2024)
 
 ### Coursework
-* Introduction to Database Systems
+* Introduction to Database Systems (Java, SQL)
 * Efficient Algorithms and Intractable Problems
 * Great Ideas in Computer Architecture (Machine Structures)
 * Data Structures (Java, Git)
