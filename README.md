@@ -6,7 +6,7 @@
 B.A, Computer Science 
 
 ### Coursework
-* Operating Systems & Systems Programming (C)
+* Operating Systems & Systems Programming (C, Rust)
 * Internet: Architecture & Protocols (Python)
 * Software Engineering
 * Database Systems (Java, SQL)
