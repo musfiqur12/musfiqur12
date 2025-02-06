@@ -3,13 +3,16 @@
 # 🎓 Education 
 
 ## University of California, Berkeley
-B.A, Computer Science (Graduating Dec 2024)
+B.A, Computer Science 
 
 ### Coursework
-* Introduction to Database Systems (Java, SQL)
+* Operating Systems & Systems Programming (C)
+* Internet: Architecture & Protocols (Python)
+* Software Engineering
+* Database Systems (Java, SQL)
 * Efficient Algorithms and Intractable Problems
-* Great Ideas in Computer Architecture (Machine Structures)
 * Data Structures (Java, Git)
+* Great Ideas in Computer Architecture (Machine Structures)
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
 * The Foundations of Data Science (NumPy)
 * Principles & Techniques of Data Science (Python, Scikit-Learn, Pandas)
